@@ -6,7 +6,7 @@ This is a theme of the Genshin Impact's character, Jean.
 
 This is a theme of Genshin Impact's Jean. This repository is to store the code, assets, and the design of the Chrome Theme that is published on the web store.
 
-[View the Theme on the Web Store (Coming Soon)](https://#)
+[View the Theme on the Web Store](https://chrome.google.com/webstore/detail/genshin-impact-jean-theme/pmfemcdhdfeemnmdjlidbhjbideaflob)
 
 ### How do I get set up? ###
 
